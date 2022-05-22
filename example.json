@@ -1,0 +1,1 @@
+"[[['Apple', 'eq', '5'], 'and', [['Plum', 'eq', '7'], 'or', ['Pear', 'eq', '8']]]]\n- Filter: [['Apple', 'eq', '5'], 'and', [['Plum', 'eq', '7'], 'or', ['Pear', 'eq', '8']]]\n  - Filters: ['Apple', 'eq', '5']\n    - Field: 'Apple'\n    - Operator: 'eq'\n    - Value: '5'\n  - Logic: 'and'"
